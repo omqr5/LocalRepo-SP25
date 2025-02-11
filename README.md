@@ -1,4 +1,4 @@
 # Local Repository 
 
-## Making changes to the branch Demo
-We are leaning about git branches
+## Making Changes to the Branch Demo
+We are learing about git branches
